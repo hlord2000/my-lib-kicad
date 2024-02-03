@@ -30,3 +30,4 @@ fp-info-cache
 
 # Project specific
 lib-management/sym-lib-table
+lib-management/fp-lib-table
